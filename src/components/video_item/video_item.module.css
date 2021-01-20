@@ -1,0 +1,29 @@
+.video {
+  width: calc(50% - 20px);
+}
+.video a {
+  display: flex;
+  background: #2e2a2a;
+  margin: 10px 0;
+  align-items: center;
+}
+.video a:hover {
+  background: #382f2f;
+}
+.thumbnails {
+  width: 30%;
+  height: 100%;
+}
+
+.title {
+  color: #fff;
+  font-size: 1em;
+}
+.titleArea {
+  padding: 1em 2em;
+}
+.channelTitle {
+  font-size: 0.7rem;
+  color: rgb(180, 98, 98);
+  margin-top: 0.4em;
+}
